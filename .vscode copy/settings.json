@@ -1,0 +1,33 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+    "source.organizeImports": "never"
+  },
+  "editor.formatOnSave": true,
+  "[javascriptreact]": {
+    "editor.formatOnSave": true
+  },
+  "prettier.configPath": "",
+
+  "workbench.colorCustomizations": {
+    "list.inactiveSelectionBackground": "#C5DEF0",
+    "sideBar.background": "#F8F6F6",
+    "sideBar.foreground": "#000000",
+    "editor.background": "#FFFFFF",
+    "editor.foreground": "#000000",
+    "sideBarSectionHeader.background": "#CAC9C9",
+    "sideBarSectionHeader.foreground": "#000000",
+    "activityBar.border": "#FFFFFF",
+    "statusBar.background": "#102F97",
+    "scrollbarSlider.activeBackground": "#77D4CB",
+    "scrollbarSlider.hoverBackground": "#8CE6DA",
+    "badge.background": "#81CA91"
+  },
+  // "peacock.color": "#61dafb",
+  "typescript.tsdk": "node_modules/typescript/lib"
+}
